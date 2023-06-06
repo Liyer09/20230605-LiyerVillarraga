@@ -1,0 +1,49 @@
+ 298  git init
+  299  git branch -m main
+  300  git clone "https://github.com/Liyer09/20230605-LiyerVillarraga.git"
+  301  git remote add origin https://github.com/Liyer09/20230605-LiyerVillarraga.git
+  302  touch comandos.txt main.js index.html
+  303  git status
+  304  git status
+  305  git add .
+  306  git status
+  307  git commit -m "commit 01 de LiyerVillarraga"
+  308  git push origin main
+  309  git branch feature01
+  310  git checkout feature01
+  311  mkdir Terminal Hardware
+  312  cd Terminal
+  313  touch resumen.txt
+  314  cd ..
+  315  cd Hardware
+  316  touch resumen.txt
+  317  cd ..
+  318  git status
+  319  git add .
+  320  git status
+  321  git commit -m " commit 02 de LiyerVillarraga"
+  322  git status
+  323  git push feature01 feature01
+  324  git push origin feature01
+  325  git checkout -b feature02
+  326  cd ..
+  327  cd 20230605-LiyerVillarraga
+  328  cd Terminal
+  329  ls
+  330  git status
+  331  git add .
+  332  git status
+  333  git add .
+  334  git status
+  335  git add resumen.txt
+  336  git status
+  337  git add Hardware/resumen.txt
+  338  cd ..
+  339  git add .
+  340  git status
+  341  git commit -m "commit 03 de LiyerVillarraga"
+  342  git push origin feature02
+  343  git checkout main
+  344  git mv comandos.txt comandosUtilizados.txt
+  345  git status
+  346  history

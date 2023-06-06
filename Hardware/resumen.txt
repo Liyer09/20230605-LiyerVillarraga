@@ -1,0 +1,3 @@
+Memoria Ram: Hace parte de la memoria principal y es  donde se almacenan de forma temporal los datos de los programas que están en ejecucion y es volatil.
+Disco duro: Hace parte de la memoria secundaria alli se guardan los archivos del usuario.
+Procesador: Es la parte mas importante del pc donde se ejecutan todos los procesos.

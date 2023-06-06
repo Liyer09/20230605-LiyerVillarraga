@@ -1,0 +1,5 @@
+git init : crea el repositorio local
+ls : te muestra el contenido del directorio donde este ubicado
+clear: borra los datos de la terminal
+git status: te muestra el estado de los cambios realizados en el repositorio
+git add .:te permite adicionar todos los cambios realizados al repositorio local
